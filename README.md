@@ -3,5 +3,5 @@
 ####Packages
 
 1.React
-1.Axios
-1.PokeAPI
+2.Axios
+3.PokeAPI
